@@ -12,6 +12,7 @@
     "@clerk/nextjs": "^6.8.0",
     "@clerk/themes": "^2.1.53",
     "@prisma/client": "^6.0.1",
+    "@radix-ui/react-separator": "^1.1.0",
     "@radix-ui/react-slot": "^1.1.0",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
@@ -22,7 +23,8 @@
     "react-dom": "^19.0.0",
     "sonner": "^1.7.0",
     "tailwind-merge": "^2.5.5",
-    "tailwindcss-animate": "^1.0.7"
+    "tailwindcss-animate": "^1.0.7",
+    "uuid": "^11.0.3"
   },
   "devDependencies": {
     "@types/node": "^20",
