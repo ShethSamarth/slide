@@ -11,12 +11,12 @@ import { Items } from "@/components/global/sidebar/items"
 import { ClerkAuthState } from "@/components/global/clerk-auth-state"
 import { UpgradeCard } from "@/components/global/sidebar/upgrade-card"
 import { SubscriptionPlan } from "@/components/global/subscription-plan"
+import { CreateAutomation } from "@/components/global/create-automation"
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet"
 
 import { Search } from "./search"
 import { Notifications } from "./notifications"
 import { MainBreadCrumb } from "../main-bread-crumb"
-import { CreateAutomation } from "./create-automation"
 
 type NavbarProps = {
   slug: string
