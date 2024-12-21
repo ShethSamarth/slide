@@ -13,10 +13,10 @@ import { UpgradeCard } from "@/components/global/sidebar/upgrade-card"
 import { SubscriptionPlan } from "@/components/global/subscription-plan"
 import { CreateAutomation } from "@/components/global/create-automation"
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet"
+import { MainBreadCrumb } from "@/components/global/bread-crumbs/main-bread-crumb"
 
 import { Search } from "./search"
 import { Notifications } from "./notifications"
-import { MainBreadCrumb } from "../main-bread-crumb"
 
 type NavbarProps = {
   slug: string

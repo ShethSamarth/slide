@@ -8,7 +8,7 @@ export const Search = () => {
       <SearchIcon color="#3352CC" />
       <Input
         placeholder="Search by name, email or status"
-        className="flex-1 border-none outline-none ring-0 focus:ring-0"
+        className="flex-1 border-none outline-none ring-0 focus:ring-0 focus-visible:ring-0"
       />
     </div>
   )
